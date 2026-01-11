@@ -4644,22 +4644,25 @@
           "type": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Русский язык",
+          "teacher": "Журавлёва А.В.",
+          "room": "315",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Математика",
+          "teacher": "Кулагина Л.В.",
+          "room": "221",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Иностранный язык",
+          "teacher": "Залова Л.Т.",
+          "room": "125",
+          "type": "Лекция",
+          "note": ""
         },
         {
           "subject": "",
@@ -4676,22 +4679,25 @@
       ],
       "Вторник": [
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Физика",
+          "teacher": "Минниахметова Ф.Р.",
+          "room": "235",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Математика",
+          "teacher": "Кулагина Л.В.",
+          "room": "221",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "История",
+          "teacher": "Черненко О.В.",
+          "room": "322",
+          "type": "Лекция",
+          "note": ""
         },
         {
           "subject": "",
@@ -4714,22 +4720,25 @@
       ],
       "Среда": [
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Литература",
+          "teacher": "Журавлёва А.В.",
+          "room": "315",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Химия",
+          "teacher": "Павличенко В.П.",
+          "room": "215",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Физика",
+          "teacher": "Минниахметова Ф.Р.",
+          "room": "235",
+          "type": "Лекция",
+          "note": ""
         },
         {
           "subject": "",
@@ -4758,22 +4767,25 @@
           "type": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Физическая культура",
+          "teacher": "[ЗАМЕНА] Ульзутуева Д.В.",
+          "room": "129",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Физика",
+          "teacher": "Минниахметова Ф.Р.",
+          "room": "319",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Химия",
+          "teacher": "Павличенко В.П.",
+          "room": "215",
+          "type": "Лекция",
+          "note": ""
         },
         {
           "subject": "",
@@ -4790,22 +4802,25 @@
       ],
       "Пятница": [
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Литература",
+          "teacher": "Журавлёва А.В.",
+          "room": "315",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Иностранный язык",
+          "teacher": "Залова Л.Т.",
+          "room": "125",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Химия",
+          "teacher": "Павличенко В.П.",
+          "room": "215",
+          "type": "Лекция",
+          "note": ""
         },
         {
           "subject": "",
@@ -4828,22 +4843,25 @@
       ],
       "Суббота": [
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "История",
+          "teacher": "Черненко О.В.",
+          "room": "322",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Математика",
+          "teacher": "Кулагина Л.В.",
+          "room": "221",
+          "type": "Лекция",
+          "note": ""
         },
         {
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": ""
+          "subject": "Литература",
+          "teacher": "Журавлёва А.В.",
+          "room": "315",
+          "type": "Лекция",
+          "note": ""
         },
         {
           "subject": "",
